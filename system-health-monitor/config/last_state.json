@@ -1,0 +1,10 @@
+{
+    "machine_id": "auto-generate-or-static",
+    "os": "Windows",
+    "timestamp": "2025-05-18T17:32:19Z",
+    "checks": {
+        "disk_encryption": false,
+        "os_update": true,
+        "antivirus": true
+    }
+}

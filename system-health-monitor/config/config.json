@@ -1,0 +1,6 @@
+{
+  "api_url": "http://localhost:8000/report",
+  "auth_token": "mySuperSecretToken123!@#",
+  "check_interval_minutes": 30,
+  "machine_id": "auto-generate-or-static"
+}
